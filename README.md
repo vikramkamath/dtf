@@ -1,4 +1,4 @@
-dtf
-===
+My simple Node js practice project which demonstrates
 
-dtf
+Backbone.js, REST, Express and Nodejs
+

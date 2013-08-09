@@ -1,0 +1,9 @@
+{
+    "eqeqeq": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "sub": true,
+    "eqnull": true,
+    "node": true
+}

@@ -1,0 +1,10 @@
+{
+    "colorcodes":[
+            {"color_code":"Gray","color_description":"GRAY (On Hold)"},
+            {"color_code":"Green","color_description":"GREEN (On Track\/No Issues\/Completed)"},
+            {"color_code":"LightBlue","color_description":"BLUE (On Track\/Minor Issues)"},
+            {"color_code":"Red","color_description":"RED (Showstopper\/Major Delays)"},
+            {"color_code":"White","color_description":"WHITE (Unscheduled\/Not Started)"},
+            {"color_code":"Yellow","color_description":"YELLOW (Potential Delays)"}
+    ]
+}

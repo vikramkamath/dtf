@@ -1,0 +1,34 @@
+{
+  "name": "dtf",
+  "version": "0.0.0",
+  "description": "A demo project ",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "cradle": "~0.6.6",
+    "express": "~3.3.4",
+    "node-static": "~0.7.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.2",
+    "grunt-contrib-jasmine": "~0.5.1"
+  },
+  "scripts": {
+    "test": "grunt test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://@github.com/vikramkamath/dtf.git"
+  },
+  "keywords": [
+    "Backbone.js",
+    "Nodejs",
+    "CouchDB"
+  ],
+  "author": "Vikram Kamath",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/vikramkamath/dtf/issues"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "issuecodes":[
+            {"issue_code":"D1","issue_description":"Test Data not available for FQT"},
+            {"issue_code":"D2","issue_description":"Defects prevent Testing"},
+            {"issue_code":"E1","issue_description":"Build Not Delivered"},
+            {"issue_code":"E2","issue_description":"All Test Cases Not Executed"},
+            {"issue_code":"M1","issue_description":"A12 Not Attended"},
+            {"issue_code":"M2","issue_description":"System Demo Not Completed"},
+            {"issue_code":"M3","issue_description":"Design Review Not Attended"},
+            {"issue_code":"M4","issue_description":"TRR Not Attended"},
+            {"issue_code":"M5","issue_description":"FQT Not Completed"},
+            {"issue_code":"M6","issue_description":"ORR Not Attended"},
+            {"issue_code":"P1","issue_description":"Test Plan Not Completed"},
+            {"issue_code":"P2","issue_description":"All Test Cases Not Completed"},
+            {"issue_code":"P3","issue_description":"All Test Cases Not in RQM"},
+            {"issue_code":"P4","issue_description":"Test Environment Not Ready"},
+            {"issue_code":"Q1","issue_description":"Environmental issues"},
+            {"issue_code":"Q2","issue_description":"Waiting for Budget Clearance"},
+            {"issue_code":"R1","issue_description":"A12 Scope Not Reviewed"},
+            {"issue_code":"R2","issue_description":"Reviewing Requirements Not Completed"}, 
+            {"issue_code":"R3","issue_description":"Requirements Not in REQ PRO"},
+            {"issue_code":"R4","issue_description":"Scope Changed"},
+            {"issue_code":"R5","issue_description":"Resources Not Available"        }
+    ]
+}
